@@ -141,7 +141,6 @@ Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de 
   height="140em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusgvl&show_icons=true&theme=tokyonight&locale=pt-br" 
 />
-
 <img 
   height="140em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusgvl&layout=compact&theme=tokyonight&locale=pt-br" 
