@@ -133,56 +133,6 @@ Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de 
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🔥 Control361 DevOps
-
-Projeto de infraestrutura e DevOps envolvendo deploy de aplicações, organização de ambientes em máquinas virtuais, configuração de rede, Docker, Cloudflare Tunnel, Nginx e banco de dados separado.
-
-**Tecnologias usadas:**
-
-- Linux
-- Docker
-- Nginx
-- Cloudflare Tunnel
-- VMware
-- MySQL / PostgreSQL
-- SSH
-- Git
-
----
-
-### 🌐 Projetos WordPress
-
-Projetos desenvolvidos em WordPress para sites institucionais, landing pages e negócios locais, com foco em performance, SEO, design profissional e configuração de hospedagem.
-
-**Atividades realizadas:**
-
-- Instalação e configuração WordPress
-- Elementor
-- Configuração de domínio
-- SSL
-- SMTP
-- Otimização de performance
-- Segurança básica
-- Backup e manutenção
-
----
-
-### 🤖 IrisAI
-
-Projeto web com foco em inteligência artificial, frontend moderno e integração com backend.
-
-**Tecnologias usadas:**
-
-- Next.js
-- TypeScript
-- React
-- API
-- Deploy web
-
----
-
 ## 📊 Estatísticas
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgvl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
