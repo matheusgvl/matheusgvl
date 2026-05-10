@@ -6,7 +6,7 @@ Me chamo Matheus Gabriel, sou estudante de Engenharia da Computação e desenvol
 Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de dados e configuração de ambientes para aplicações reais. Tenho interesse em DevOps, arquitetura de sistemas, automação, CI/CD, servidores Linux e criação de soluções web completas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheusgvl/)
-[![GitHub](https://img.shields.io/badge/GitHub-matheusgvl-black?style=for-the-badge&logo=github)](https://github.com/matheusgvl)
+[![GitHub](https://img.shields.io/badge/GitHub-matheusgvl-black?style=for-the-badge&logo=github)](https://github.com/matheusgvl)e
 ---
 
 
@@ -128,9 +128,7 @@ Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de 
 - Backend com Python, PHP, Node.js e bancos de dados
 - Deploy de aplicações em servidores Linux
 - Docker e Docker Compose
-- Configuração de Nginx e proxy reverso
 - WordPress, Elementor e hospedagens tradicionais
-- Cloudflare Tunnel, DNS e SSL
 - VMware, infraestrutura local e máquinas virtuais
 - CI/CD, GitHub e automação de deploy
 
@@ -140,14 +138,12 @@ Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de 
 <div align="center">
 
 <img 
-  height="170em" 
+  height="140em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusgvl&show_icons=true&theme=tokyonight&locale=pt-br" 
 />
 
-<br><br>
-
 <img 
-  height="170em" 
+  height="140em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusgvl&layout=compact&theme=tokyonight&locale=pt-br" 
 />
 
