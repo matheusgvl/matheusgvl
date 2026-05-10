@@ -149,7 +149,9 @@ Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de 
 />
 
 </div>
-## 📫 Contato
+
+---
+ 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheusgvl/)
 [![GitHub](https://img.shields.io/badge/GitHub-matheusgvl-black?style=for-the-badge&logo=github)](https://github.com/matheusgvl)
