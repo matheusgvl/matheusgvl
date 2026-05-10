@@ -132,21 +132,15 @@ Atuo com desenvolvimento Fullstack, WordPress, Docker, Linux, VMware, bancos de 
 - CI/CD, GitHub e automação de deploy
 
 ---
-
 ## 📊 Estatísticas
 
+<div align="center">
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusgvl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgvl&show_icons=true&theme=tokyonight)
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgvl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgvl&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
